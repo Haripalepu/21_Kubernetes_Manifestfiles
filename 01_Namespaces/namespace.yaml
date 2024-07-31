@@ -1,4 +1,4 @@
-apiVersion: v1   #To specify the kubernetes version
-kind: Namespace  #What kind of resource
+apiVersion: v1   #To specify the kubernetes version.
+kind: Namespace  #What kind of resource.
 metadata:
-  name: roboshop #Name of the Namespace
+  name: roboshop #Name of the Namespace.
